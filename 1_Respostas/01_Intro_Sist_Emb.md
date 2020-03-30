@@ -7,6 +7,8 @@
 	São sistemas microprocessados, os sistemas que contém os periféricos essencias para o seu funcionamento sem a parte da alimentação de energia, no mesmo encapsulamento para fazer processos sequênciais a partir de dados. 
 
 3. Apresente aplicações de sistemas embarcados:
+
+
 	(a) Para a indústria automotiva.
 
 		Controle central do carro com integração dos sensores.
