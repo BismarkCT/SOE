@@ -29,21 +29,21 @@
 		Alto poder de processamento, mas necessita de outros componentes para funcionar.
 	DSPs: 
 
-		Processa apenas sinais digitais.
+		Processa apenas sinais digitais, é mais rapido que os microcontroladores.
 	FPGAs: 
 
 		Programa-se o Hardware e tem um alto custo.
 	ASICs:
 
-		Circuito integrado que é utilizado para especificas aplicações.
+		Circuitos integrados que são utilizados para específicas aplicações.
 	SoCs: 
 
 		Sistema completo dentro de um chip, é um computador completo com uma taxa menor de processamento, comparado aos computadores convencionais. 
 	MPSoCs:
 		
-		Sistema com multipos SoCs, com o custo elevado assim como seu alto processamento.
+		Sistema com multipos SoCs, FPGAs, ASICs e entre outros. Com o custo elevado assim como seu alto processamento.
 
 		
 5. Por que usamos o Raspberry Pi na disciplina, ao invés de outro system-on-chip?
 
-	Utilizamos a Raspberry Pi por ser um dos mais completos kits de desenvolvimento pelo seu custo x benefício e obtém um amplo ambiente de auxilio na comunidade eletrônica, por essa sua popularização.
+	Utilizamos a Raspberry Pi por ser um dos mais completos kits de desenvolvimento pelo seu custo x benefício e obtém um amplo ambiente de auxilio na comunidade eletrônica, por sua popularização.
