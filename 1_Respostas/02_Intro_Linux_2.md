@@ -1,4 +1,4 @@
-1. Escreva o texto "Ola mundo cruel!" em um arquivo denominado "Ola_mundo.txt". Apresente o conteúdo deste arquivo no terminal.
+1. Escreva o texto "Ola mundo cruel!" em um arquivo denominado "Ola_mundo.txt". Apresente o conteÃºdo deste arquivo no terminal.
 
 	$ echo "Ola mundo cruel!" > Ola_mundo.txt; cat Ola_mundo.txt
 Ola mundo cruel!	
@@ -53,7 +53,7 @@ bin/    dev/   lib/         media/  proc/  sbin/  sys/  var/
 boot/   etc/   lib64/       mnt/    root/  snap/  tmp/
 cdrom/  home/  lost+found/  opt/    run/   srv/   usr/
 
-5. Descubra em que dia da semana caiu o seu aniversário nos últimos dez anos.
+5. Descubra em que dia da semana caiu o seu aniversï¿½rio nos ï¿½ltimos dez anos.
 
 	$ date +"%d de %B de %Y, %A" -d "05/03 10 years ago";date 	+"%d de %B de %Y, %A" -d "05/03 9 years ago";date +"%d de %B 	de %Y, %A" -d "05/03 8 years ago";date +"%d de %B de %Y, %	A" -d "05/03 7 years ago";date +"%d de %B de %Y, %A" -d 	"05/03 6 years ago";date +"%d de %B de %Y, %A" -d "05/03 5 	years ago";date +"%d de %B de %Y, %A" -d "05/03 4 years 	ago";date +"%d de %B de %Y, %A" -d "05/03 3 years ago";date 	+"%d de %B de %Y, %A" -d "05/03 2 years ago";date +"%d de %B 	de %Y, %A" -d "05/03 last-year";date +"%d de %B de %Y, %A" -	d "05/03 this year"
 
@@ -69,9 +69,9 @@ cdrom/  home/  lost+found/  opt/    run/   srv/   usr/
 	03 de May de 2019, Friday
 	03 de May de 2020, Sunday
 
-6. Para as questões a seguir, use a pasta no endereço https://github.com/DiogoCaetanoGarcia/Sistemas_Embarcados/raw/master/Questoes/02_Intro_Linux_arqs.zip
+6. Para as questÃµes a seguir, use a pasta no endereÃ§o https://github.com/DiogoCaetanoGarcia/Sistemas_Embarcados/raw/master/Questoes/02_Intro_Linux_arqs.zip
 
-7. Liste somente os arquivos com extensão .txt.
+7. Liste somente os arquivos com extensï¿½o .txt.
 
 $ ls *.txt
 arquivo.txt   cal_1996.txt  cal_2003.txt  cal_2010.txt  cal_2017.txt
@@ -82,7 +82,7 @@ cal_1993.txt  cal_2000.txt  cal_2007.txt  cal_2014.txt  cal.txt
 cal_1994.txt  cal_2001.txt  cal_2008.txt  cal_2015.txt  cal_types.txt
 cal_1995.txt  cal_2002.txt  cal_2009.txt  cal_2016.txt
 
-8. Liste somente os arquivos com extensão .png.
+8. Liste somente os arquivos com extensÃ£o .png.
 
 $ ls *.png
 BusinessTux.png               linux.png
@@ -92,13 +92,13 @@ linux3.png                    TUX.png
 linux_inside.png              xanderrun-tux-construction-8454.png
 linux-penguin-icon-39742.png
 
-9. Liste somente os arquivos com extensão .jpg.
+9. Liste somente os arquivos com extensÃ£o .jpg.
 
 $ ls *.jpg
 d36f1a2be6a927ac3e2e1e4eacdedded.jpg  oRva1OGD.jpg
 oRva1OGD_400x400.jpg                  zz39112bb5.jpg
 
-10. Liste somente os arquivos com extensão .gif.
+10. Liste somente os arquivos com extensÃ£o .gif.
 
 	$ ls *.gif
 	1086970.gif
