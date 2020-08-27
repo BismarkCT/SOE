@@ -2,28 +2,28 @@
 
  O Linux recebeu esse nome por ser uma mistura entre o nome Unix e o do seu criador, Linus Torvalds.
 
-2. O que s„o daemons?
+2. O que s√£o daemons?
 
- Daemons s„o controladores de serviÁos promovidos pelo sistema, que roda no plano de fundo.
+ Daemons s√£o controladores de servi√ßos promovidos pelo sistema, que roda no plano de fundo.
 
-3. O que È shell?
+3. O que √© shell?
 
- Shell È uma interfasce que interpreta os comandos dados pelo usu·rio para o sistema, basicamente, tem como objetivo ser o intermedi·rio.
+ Shell √© uma interface que interpreta os comandos dados pelo usu√°rio para o sistema, basicamente, tem como objetivo ser o intermedi√°rio.
 
-4. Por que È importante evitar executar o terminal como super-usu·rio?
+4. Por que √© importante evitar executar o terminal como super-usu√°rio?
 
- Uma das aÁıes mais importantes que tem que se atentar e o uso do super-usu·rio, ou sudo, pois qualquer alteraÁ„o feita durante o seu uso n„o poder· ser disfeita.
+ Uma das a√ß√µes mais importantes que tem que se atentar e o uso do super-usu√°rio, ou sudo, pois qualquer altera√ß√£o feita durante o seu uso n√£o poder√° ser disfeita.
 
-5. Qual bot„o do teclado completa o que o usu·rio escreve no terminal, de acordo com o contexto?
+5. Qual bot√£o do teclado completa o que o usu√°rio escreve no terminal, de acordo com o contexto?
 
- Durante o uso do terminal, tem aÁıes que o sistema tem uma estimativa que vai fazer, completando o comando, para isso acontecer bastar apertar o Tab quando for dado uma sugest„o do comando.
+ Durante o uso do terminal, tem a√ß√µes que o sistema tem uma estimativa que vai fazer, completando o comando, para isso acontecer bastar apertar o Tab quando for dado uma sugest√£o do comando.
 
-6. Quais botıes do teclado apresentam instruÁıes escritas anteriormente?
+6. Quais bot√µes do teclado apresentam instru√ß√µes escritas anteriormente?
 
- Para ver os comandos feitos anteriormente, basta usar as setas para cima e para baixo assim navegar· na barra de instruÁıes realizadas antes.
+ Para ver os comandos feitos anteriormente, basta usar as setas para cima e para baixo assim navegar√° na barra de instru√ß√µes realizadas antes.
 
 7. Apresente os respectivos comandos no terminal para:
-	(a)Obter mais informaÁıes sobre um comando.
+	(a)Obter mais informa√ß√µes sobre um comando.
 		comando "man".
 
  	(b)Apresentar uma lista com os arquivos dentro de uma pasta.
@@ -59,7 +59,7 @@
 	(l)Renomaer pastas.
 		comando "mv".
 
-	(m)Apresentar o conte˙do de um arquivo.
+	(m)Apresentar o conte√∫do de um arquivo.
 		comando "cat".
 
 	(n)Apresentar o tipo de um arquivo.
@@ -68,16 +68,16 @@
 	(o)Limpar a tela do terminal
 		comando "clear".
 
-	(p)Encontrar ocorrÍncias de palavras-chaves em um arquivo-texto.
+	(p)Encontrar ocorr√™ncias de palavras-chaves em um arquivo-texto.
 		comando "grep".
 
-	(q)Ordenar informaÁıes em um arquivo-texto.
+	(q)Ordenar informa√ß√µes em um arquivo-texto.
 		comando "sort".
 
-	(r)Substituir ocorrÍncias de palavras-chaves em um arquivo-texto.
+	(r)Substituir ocorr√™ncias de palavras-chaves em um arquivo-texto.
 		comando "sed".
 
-	(s)Conferir se dois arquivos s„o iquais.
+	(s)Conferir se dois arquivos s√£o iquais.
 		comando "diff".
 
 	(t)Escrever algo na tela.
